@@ -14,6 +14,8 @@ I am currently seeking opportunities as a **Junior Developer**, with a focus on 
 
 ### 🛠️ Tech Stack & Tools
 
+| Category | Technologies / Languages |
+| :--- | :--- |
 | **Languages** | `C#/.NET`, `Python`, `Java`, `JavaScript/TypeScript`, `C/C++ (basic)` |
 | **Full-Stack** | `React`, `Node.js`, `HTML/CSS`, `SQL` |
 | **AI & ML** | `PyTorch`, `matplotlib`, `ResNet18` |
@@ -29,7 +31,7 @@ I am currently seeking opportunities as a **Junior Developer**, with a focus on 
 
 ---
 
-### Fun Facts:
+### 🎸 Fun Facts:
 * I love to play guitar (John Mayer & David Gilmour are amongst my favorite guitarists) 
 * Fueled by a concerning amount of energy drinks
 * Avid gym-goer
