@@ -19,7 +19,7 @@ I am currently seeking opportunities as a **Junior Developer**, with a focus on 
 | **Languages** | `C#/.NET`, `Python`, `Java`, `JavaScript/TypeScript`, `C/C++ (basic)` |
 | **Full-Stack** | `React`, `Node.js`, `HTML/CSS`, `SQL` |
 | **AI & ML** | `PyTorch`, `matplotlib`, `ResNet18` |
-| **Hardware & IoT** | Microcontrollers (ESP32), Embedded Systems, Sensor Integration |
+| **Hardware & IoT** | `Microcontrollers (ESP32)`, `Embedded Systems`, `Sensor Integration` |
 | **Tools & Platforms** | `Git`, `Linux` |
 
 ---
