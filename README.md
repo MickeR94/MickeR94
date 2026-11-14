@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Mikael
+### Hey, you! Welcome to my corner of the internet! I'm Mikael ![](https://github.com/MickeR94/MickeR94/Wave.gif)
 
 Newly graduated with a BSc in Computer Engineering at KTH with a strong passion for high-level software all the way down to hardware.
 
